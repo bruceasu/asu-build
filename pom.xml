@@ -76,12 +76,6 @@
 	        </dependency>
 	        
 	        <dependency>
-	            <artifactId>slf4j-api</artifactId>
-	            <groupId>org.slf4j</groupId>
-	            <version>${slf4j.version}</version>
-	        </dependency>
-	        
-	        <dependency>
 	            <artifactId>log4j-slf4j-impl</artifactId>
 	            <groupId>org.apache.logging.log4j</groupId>
 	            <version>${log4j2.version}</version>
